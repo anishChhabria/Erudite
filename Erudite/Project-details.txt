@@ -1,0 +1,15 @@
+!-------------------------------------------------------------------------------------------------------
+Owner of the project - Mr. Mohit Makhija
+Name of the project - Erudite (meaning -> having or showing great knowledge or learning)
+Purpose of the project - To make a platform for people who are Erudite(adjective) i.e as the meaning says the people who have and want to show(share) their knowledge or who want to learn.
+--------------------------------------------------------------------------------------------------------!
+
+####   Scenario that led to the idea of this project   ####
+Generally, in a Website or an App which is made as a platform for learning or sharing knowledge, study content, etc we can see that all the content is stored and managed in the App's or Website's Database.
+Also in some cases we can see crowdsourcing of knowledge or data by a large number of users but then usually its text data.
+To explain in a more better way what we want to do in this project, lets take some examples - 
+Youtube is for videos; Instagram is for photos,videos,conversations, etc. but these paltforms are actually storing such large amount of data.
+
+But here, its an attempt to support sharing all types of data - text, videos, photos, documents, etc. through crowdsourcing for any subjects of Education (For e.g. Mathematics, Biology, Physics, Data Structures, Programming Subject, etc) and still there will be no need to store the actual large amount of data because it will allow sharing taxt but in place of photos and videos or research papers(documents like pdf, docx,etc) users will be allowed to share links(google drive links, other website links, etc)
+
+So, basically all the knowledge that people will share will be in text format which comprises of "actual words and links" 
